@@ -1,7 +1,7 @@
 # 🚴‍♂️ Bike Sales Dashboard – Power BI  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)  
-![Dataset]([https://img.shields.io/badge/Data-Bike%20Sales-blue](https://github.com/ankitpatel0/Bike-Sales-Dashboard-Power-Bi-Guvi-Virtual-Internship/blob/main/bike_sales_india.csv))  
+![Dataset]([https://img.shields.io/badge/Data-Bike%20Sales-blue]))  
 ![Status](https://img.shields.io/badge/Project%20Type-Dashboard-green)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
 
