@@ -3,7 +3,6 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)  
 ![Dataset](https://img.shields.io/badge/Data-Bike%20Sales-blue)  
 ![Status](https://img.shields.io/badge/Project%20Type-Dashboard-green)  
-![License](https://img.shields.io/badge/License-MIT-orange)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
 
 ---
