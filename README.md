@@ -55,7 +55,7 @@ It is designed to help businesses **understand their target audience** and make 
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert dashboard screenshot here for visual impact)*  
+*([Insert dashboard screenshot here for visual impact](https://github.com/ankitpatel0/Bike-Sales-Dashboard-Power-Bi-Guvi-Virtual-Internship/blob/main/Dashboard%201.png))*  
 
 ---
 
